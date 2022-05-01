@@ -1,0 +1,131 @@
+@{
+    ViewBag[Title] = "Brief Description of us:";
+}
+
+<!DOCTYPE html>
+<html>
+<head>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <style>
+        body {
+            font-family: Arial, Helvetica, sans-serif;
+            margin: 0;
+        }
+
+        html {
+            box-sizing: border-box;
+        }
+
+        *, *:before, *:after {
+            box-sizing: inherit;
+        }
+
+        .column {
+            float: left;
+            width: 33.3%;
+            margin-bottom: 16px;
+            padding: 0 8px;
+        }
+
+        .card {
+            box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+            margin: 8px;
+        }
+
+        .about-section {
+            padding: 50px;
+            text-align: center;
+            background-color: #474e5d;
+            color: white;
+        }
+
+        #about .container {
+            padding: 0 16px;
+        }
+
+        .container::after, .row::after {
+            content: "";
+            clear: both;
+            display: table;
+        }
+
+        #about .title {
+            color: grey;
+        }
+
+        #about .button {
+            border: none;
+            outline: 0;
+            display: inline-block;
+            padding: 8px;
+            color: white;
+            background-color: #000;
+            text-align: center;
+            cursor: pointer;
+            width: 100%;
+        }
+
+        .button:hover {
+            background-color: #555;
+        }
+    </style>
+
+</head>
+<body>
+
+    <div class="about-section">
+        <h1>About Us Page</h1>
+        <p>Some text about who we are and what we do.</p>
+    </div>
+
+
+
+    <div class="column">
+        <div class="card">
+            <img src="~/img/49741950.jpg" alt="Tatyana" style="width:100%">
+            <div class="container">
+                <h2>Tatyanna Villegas</h2>
+                <p class="title">Graduate Student</p>
+                <p>
+                    USF student studying for a Masters in BAIS.
+                    I like skating, coding and working to better visualize products for end users..
+                </p>
+                <p>elizabeth109@usf.edu</p>
+                <p><button class="button">Contact: +1(813)401-5859</button></p>
+            </div>
+        </div>
+    </div>
+    <div class="row">
+        <div class="column">
+            <div class="card">
+                <img src="~/img/imageSunCard.jpg" alt="Jane" style="width:100%">
+                <div class="container">
+                    <h2>Shreya Uday</h2>
+                    <p class="title">Graduate Student</p>
+                    <p>
+                        I am a graduate Business Analytics and Information Systems student.
+                        I work as a GA and I like hiking. I love music and in free time I love to code!!
+                    </p>
+                    <p>shreyauday@usf.edu</p>
+                    <p><button class="button">Contact: +1(970)-402-1163</button></p>
+                </div>
+            </div>
+        </div>
+        <div class="row">
+            <div class="column">
+                <div class="card">
+                    <img src="~/img/WhatsApp Image 2021-03-19 at 11.03.24 PM.jpeg" alt="Jane" style="width:90%">
+                    <div class="container">
+                        <h2>Khubaib Farooq</h2>
+                        <p class="title">Graduate Student</p>
+                        <p>
+                            Khubaib is graduating with a MS in Business Analytics and Information Systems.
+                            His future plans include working as a Business Consultant and lift his home country of
+                            Pakistan out of poverty.
+
+                        </p>
+                        <p>khubaibf@usf.edu</p>
+                        <p><button class="button">Contact: +1(813)573-7595</button></p>
+                    </div>
+                </div>
+            </div>

@@ -1,0 +1,8 @@
+/Users/shirishyalavarthy/Downloads/Assignment_ActiveCloudSite-main/Template/obj/Debug/net5.0/Template.csproj.AssemblyReference.cache
+/Users/shirishyalavarthy/Downloads/Assignment_ActiveCloudSite-main/Template/obj/Debug/net5.0/Template.GeneratedMSBuildEditorConfig.editorconfig
+/Users/shirishyalavarthy/Downloads/Assignment_ActiveCloudSite-main/Template/obj/Debug/net5.0/Template.AssemblyInfoInputs.cache
+/Users/shirishyalavarthy/Downloads/Assignment_ActiveCloudSite-main/Template/obj/Debug/net5.0/Template.AssemblyInfo.cs
+/Users/shirishyalavarthy/Downloads/Assignment_ActiveCloudSite-main/Template/obj/Debug/net5.0/Template.csproj.CoreCompileInputs.cache
+/Users/shirishyalavarthy/Downloads/Assignment_ActiveCloudSite-main/Template/obj/Debug/net5.0/Template.MvcApplicationPartsAssemblyInfo.cache
+/Users/shirishyalavarthy/Downloads/Assignment_ActiveCloudSite-main/Template/obj/Debug/net5.0/Template.RazorAssemblyInfo.cache
+/Users/shirishyalavarthy/Downloads/Assignment_ActiveCloudSite-main/Template/obj/Debug/net5.0/Template.RazorAssemblyInfo.cs
