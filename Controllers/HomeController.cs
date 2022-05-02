@@ -5,9 +5,9 @@ using System.Collections.Generic;
 using System.Diagnostics;
 using System.Linq;
 using System.Threading.Tasks;
-using Template.Models;
+using Active_cloud_site_5.Models;
 
-namespace Template.Controllers
+namespace Active_cloud_site_5.Controllers
 {
     public class HomeController : Controller
     {

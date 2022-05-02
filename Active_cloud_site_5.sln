@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.31205.134
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Template", "Template.csproj", "{7D2179C5-1829-4E1E-BED1-B311B36A30E7}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Active_cloud_site_5", "Active_cloud_site_5.csproj", "{7D2179C5-1829-4E1E-BED1-B311B36A30E7}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

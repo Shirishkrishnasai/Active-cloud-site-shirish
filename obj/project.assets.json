@@ -569,11 +569,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/shirishyalavarthy/Downloads/Assignment_ActiveCloudSite-main/Template/Template.csproj",
-      "projectName": "Template",
-      "projectPath": "/Users/shirishyalavarthy/Downloads/Assignment_ActiveCloudSite-main/Template/Template.csproj",
+      "projectUniqueName": "/Users/shirishyalavarthy/Projects/Active-cloud-site-shirish/Active_cloud_site_5.csproj",
+      "projectName": "Active_cloud_site_5",
+      "projectPath": "/Users/shirishyalavarthy/Projects/Active-cloud-site-shirish/Active_cloud_site_5.csproj",
       "packagesPath": "/Users/shirishyalavarthy/.nuget/packages/",
-      "outputPath": "/Users/shirishyalavarthy/Downloads/Assignment_ActiveCloudSite-main/Template/obj/",
+      "outputPath": "/Users/shirishyalavarthy/Projects/Active-cloud-site-shirish/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/shirishyalavarthy/.config/NuGet/NuGet.Config"
@@ -627,7 +627,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/x64/sdk/6.0.102/RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/x64/sdk/6.0.104/RuntimeIdentifierGraph.json"
       }
     }
   }

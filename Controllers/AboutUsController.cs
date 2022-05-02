@@ -5,7 +5,7 @@ using System.Threading.Tasks;
 using Microsoft.AspNetCore.Mvc;
 using System.Text.Encodings.Web;
 
-namespace Assignment4.Controllers
+namespace ActiveCloudSite_5.Controllers
 {
     public class AboutUsController : Controller
     {

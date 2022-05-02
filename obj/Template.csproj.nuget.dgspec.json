@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/shirishyalavarthy/Downloads/Assignment_ActiveCloudSite-main/Template/Template.csproj": {}
+    "/Users/shirishyalavarthy/Projects/Active-cloud-site-shirish/Template.csproj": {}
   },
   "projects": {
-    "/Users/shirishyalavarthy/Downloads/Assignment_ActiveCloudSite-main/Template/Template.csproj": {
+    "/Users/shirishyalavarthy/Projects/Active-cloud-site-shirish/Template.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/shirishyalavarthy/Downloads/Assignment_ActiveCloudSite-main/Template/Template.csproj",
+        "projectUniqueName": "/Users/shirishyalavarthy/Projects/Active-cloud-site-shirish/Template.csproj",
         "projectName": "Template",
-        "projectPath": "/Users/shirishyalavarthy/Downloads/Assignment_ActiveCloudSite-main/Template/Template.csproj",
+        "projectPath": "/Users/shirishyalavarthy/Projects/Active-cloud-site-shirish/Template.csproj",
         "packagesPath": "/Users/shirishyalavarthy/.nuget/packages/",
-        "outputPath": "/Users/shirishyalavarthy/Downloads/Assignment_ActiveCloudSite-main/Template/obj/",
+        "outputPath": "/Users/shirishyalavarthy/Projects/Active-cloud-site-shirish/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/shirishyalavarthy/.config/NuGet/NuGet.Config"

@@ -1,6 +1,6 @@
 using System;
 
-namespace Template.Models
+namespace Active_cloud_site_5.Models
 {
     public class ErrorViewModel
     {
